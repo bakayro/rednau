@@ -1,0 +1,86 @@
+@font-face {
+    font-family: "flaticon";
+    src: url("./flaticon.ttf?5b8484cff3e3fb127e52b53cd591905b") format("truetype"),
+url("./flaticon.woff?5b8484cff3e3fb127e52b53cd591905b") format("woff"),
+url("./flaticon.woff2?5b8484cff3e3fb127e52b53cd591905b") format("woff2"),
+url("./flaticon.eot?5b8484cff3e3fb127e52b53cd591905b#iefix") format("embedded-opentype"),
+url("./flaticon.svg?5b8484cff3e3fb127e52b53cd591905b#flaticon") format("svg");
+}
+
+i[class^="flaticon-"]:before, i[class*=" flaticon-"]:before {
+    font-family: flaticon !important;
+    font-style: normal;
+    font-weight: normal !important;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.flaticon-facebook-app-symbol:before {
+    content: "\f101";
+}
+.flaticon-instagram:before {
+    content: "\f102";
+}
+.flaticon-down-arrow:before {
+    content: "\f103";
+}
+.flaticon-down-arrow-1:before {
+    content: "\f104";
+}
+.flaticon-down-chevron:before {
+    content: "\f105";
+}
+.flaticon-down-arrow-2:before {
+    content: "\f106";
+}
+.flaticon-down-arrow-3:before {
+    content: "\f107";
+}
+.flaticon-booking:before {
+    content: "\f108";
+}
+.flaticon-booking-1:before {
+    content: "\f109";
+}
+.flaticon-booking-2:before {
+    content: "\f10a";
+}
+.flaticon-sunbathing:before {
+    content: "\f10b";
+}
+.flaticon-meditation:before {
+    content: "\f10c";
+}
+.flaticon-bed:before {
+    content: "\f10d";
+}
+.flaticon-hotel:before {
+    content: "\f10e";
+}
+.flaticon-bedroom:before {
+    content: "\f10f";
+}
+.flaticon-hotel-bed:before {
+    content: "\f110";
+}
+.flaticon-arrowhead-up:before {
+    content: "\f111";
+}
+.flaticon-up-arrow:before {
+    content: "\f112";
+}
+.flaticon-go-up:before {
+    content: "\f113";
+}
+.flaticon-up-arrow-1:before {
+    content: "\f114";
+}
+.flaticon-contact:before {
+    content: "\f115";
+}
+.flaticon-contact-mail:before {
+    content: "\f116";
+}
